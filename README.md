@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**muhhamdan335-creator/muhhamdan335-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Inbound Marketing Specialist (SEO), Data Entry, Data Cleaning, Data Analyst
+Berpengalaman di agency inbound marketing, fokus pada technical SEO, data cleaning, dan analisis data bisnis.
 
-Here are some ideas to get you started:
+KEAHLIAN
+| Bidang           | Tools & Skills                                                                                        |
+|------------------|-------------------------------------------------------------------------------------------------------|
+| **SEO**          | Google Search Console, Ahrefs, Screaming Frog, Internal Linking, Link Building, Indexing Optimization |
+| **Data Entry**   | Excel, Google Sheets, Data Cleaning, Validation, Accuracy 99%+                                        |
+| **Data Analyst** | Excel (Pivot, VLOOKUP), SQL (Basic), Python (Pandas, Matplotlib), Power BI/Tableau                    |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 PROJECTS
+
+### 🔍 SEO Projects
+
+1. **[Backlink Health Check, identify broken links & Disavow](https://github.com/username/seo-backlink-health-check)**  
+   Mengurangi 96% backlink toxic, meningkatkan trust domain untuk klien e-commerce.
+
+2. **[Google Indexing Optimization](https://github.com/username/seo-google-indexing)**  
+   Meningkatkan halaman terindex 40% dalam 6 minggu melalui audit coverage & internal linking.
+
+3. **[Internal Linking](https://github.com/username/seo-internal-linking)**  
+   Optimasi struktur internal link berbasis pilar-cluster, avg. position keyword utama dari 18 → 9.
+
+4. **[Identify linkable asset](https://github.com/username/seo-internal-linking)**  
+   Optimasi struktur internal link berbasis pilar-cluster, avg. position keyword utama dari 18 → 9.
