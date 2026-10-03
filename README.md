@@ -58,26 +58,3 @@ Audit → Analyze → Optimize → Measure
 | **Research** | Google Search, Competitor Research, Website Analysis |
 
 ---
-
-## Prinsip Kerja
-
-- Mengutamakan analisis berbasis data sebelum memberikan rekomendasi
-- Memprioritaskan isu SEO berdasarkan dampak, urgensi, dan tingkat implementasi
-- Menyusun rekomendasi yang jelas, terstruktur, dan dapat ditindaklanjuti
-- Mempertimbangkan kebutuhan pengguna, mesin pencari, dan tujuan bisnis
-- Memantau hasil optimasi untuk mengukur efektivitas implementasi
-
----
-
-## Kontak
-
-| Platform | Informasi |
-|---|---|
-| LinkedIn | [Muhammad Hamdan](URL_LINKEDIN_ANDA) |
-| Email | [EMAIL_ANDA](mailto:EMAIL_ANDA) |
-
----
-
-<p align="center">
-  Terima kasih telah mengunjungi profil GitHub saya.
-</p>
