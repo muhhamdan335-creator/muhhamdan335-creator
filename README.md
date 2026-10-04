@@ -2,17 +2,10 @@
 
 ### SEO Specialist | Technical SEO | On-Page SEO | SEO Data Analysis
 
-Saya adalah seorang **SEO Specialist** dengan pengalaman di lingkungan *inbound marketing agency*. Saya berfokus pada Technical SEO, On-Page SEO, website audit, optimasi internal linking, peningkatan indexing, serta analisis data SEO.
+Saya adalah SEO Specialist dengan pengalaman di lingkungan *inbound marketing agency*. Fokus saya mencakup technical SEO, website audit, internal linking, indexing optimization, content analysis, dan SEO data analysis.
 
-Saya terbiasa mengidentifikasi permasalahan SEO, menganalisis data dan performa website, menyusun rekomendasi yang dapat diimplementasikan, serta memantau dampak optimasi terhadap visibilitas organik, indexing, ranking, dan pertumbuhan traffic.
+Saya menggunakan pendekatan berbasis data untuk mengidentifikasi isu SEO, menyusun rekomendasi yang dapat diimplementasikan, serta memantau perkembangan visibilitas organik, indexing, ranking, dan traffic.
 
----
-
-## Tentang Saya
-
-Saya memiliki pendekatan kerja berbasis data dalam menjalankan strategi SEO, mulai dari proses audit teknis, analisis keyword dan search intent, evaluasi struktur konten, hingga monitoring performa setelah implementasi.
-
-Fokus saya bukan hanya meningkatkan traffic atau ranking, tetapi memastikan optimasi organik dapat mendukung tujuan bisnis, meningkatkan kualitas pengalaman pengguna, dan membangun pertumbuhan yang berkelanjutan.
 
 ```text
 Audit → Analyze → Optimize → Measure
